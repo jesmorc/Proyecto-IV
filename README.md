@@ -42,13 +42,13 @@ Además , la plataforma actuará como una especia de red social, siendo capaz ca
 
 ## Herramientas a usar
 
-* **Vamos a usar como framework para la aplicación Flask.
+* Usaremos **Flask** como framework para la aplicación.
 
-* **Python, para la parte del servidor, así como funcionalidades de la web.
+* **Python**, para la parte del servidor, así como funcionalidades de la web.
 
-* **HTML5 y CSS3 para la interfaz web.
+* **HTML5** y **CSS3** para la interfaz web.
 
-* **SQLite, para bases de datos de usuarios y eventos.
+* **SQLite**, para bases de datos de usuarios y eventos.
 
 ## Participación en el certamen de proyectos de libres organizado por la Oficina de Software Libre de la UGR
 
