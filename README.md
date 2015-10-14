@@ -6,11 +6,11 @@ _nombre aún por decidir entre las dos opciones_
 
 ## Integrantes
 
-* **Jesús García Godoy
+* Jesús García Godoy
 
-* **Samuel Carmona Soria
+* Samuel Carmona Soria
 
-* **David Santiago Carrión
+* David Santiago Carrión
 
 ## Descripción
 
