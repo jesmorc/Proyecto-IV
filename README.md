@@ -1,6 +1,4 @@
-# Work-in-out / Sportchan
-
-_nombre aún por decidir entre las dos opciones_
+# Work-in-out / Sportchan (_nombre aún por decidir entre las dos opciones_)
 
 ### Plataforma enfocada a los deportistas, híbrido entre red social y tablón de eventos.
 
