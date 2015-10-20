@@ -1,5 +1,4 @@
-(_nombre aún por decidir entre las dos opciones_)
-# Work-in-out / Sportchan
+# Work-in-out
 
 ### Plataforma enfocada a los deportistas, híbrido entre red social y tablón de eventos. Proyecto relacionado con la asignatura DAI.
 
@@ -49,7 +48,15 @@ Además , la plataforma actuará como una especia de red social, siendo capaz ca
 
 * **SQLite**, para bases de datos de usuarios y eventos.
 
+## Módulos
+
+* **Módulo 1**: Este módulo se centrará en el servidor de bases de datos, el cual necesitaremos para almacenar los datos de la aplicación, como los usuarios, eventos, comentarios, etc...
+[Jesús García Godoy, Módulo 1](https://github.com/jesmorc/Proyecto-IV-modulo1)
+
+* **Módulo 2**: Este módulo se enfocará del front-end de la aplicación.
+
+* **Módulo 3**: Por último, este módulo se encargará de gestionar el servidor web que alojará la aplicación.
+
 ## Participación en el certamen de proyectos de libres organizado por la Oficina de Software Libre de la UGR
 
 El proyecto ha sido inscrito en el certamen de proyectos libres de la UGR.
-
