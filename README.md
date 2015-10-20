@@ -50,8 +50,7 @@ Además , la plataforma actuará como una especia de red social, siendo capaz ca
 
 ## Módulos
 
-* **Módulo 1**: Este módulo se centrará en el servidor de bases de datos, el cual necesitaremos para almacenar los datos de la aplicación, como los usuarios, eventos, comentarios, etc...
-[Jesús García Godoy, Módulo 1](https://github.com/jesmorc/Proyecto-IV-modulo1)
+* **[Módulo 1, Jesús García Godoy](https://github.com/jesmorc/Proyecto-IV-modulo1)**: Este módulo se centrará en el servidor de bases de datos, el cual necesitaremos para almacenar los datos de la aplicación, como los usuarios, eventos, comentarios, etc...
 
 * **Módulo 2**: Este módulo se enfocará del front-end de la aplicación.
 
