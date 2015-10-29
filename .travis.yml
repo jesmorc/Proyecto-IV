@@ -13,3 +13,4 @@ install:
 
 script:       # script para tests
    - nosetests  test
+   - nosetests ./test/test.py
