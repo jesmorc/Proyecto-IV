@@ -12,5 +12,4 @@ install:
    - pip install nose  
 
 script:       # script para tests
-   - nosetests ./test/test.py
-   - nosetests ./test/test.js
+   - nosetests  test
