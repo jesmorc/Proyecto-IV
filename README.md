@@ -46,7 +46,7 @@ Además , la plataforma actuará como una especia de red social, siendo capaz ca
 
 * **HTML5** y **CSS3** para la interfaz web.
 
-* **SQLite**, para bases de datos de usuarios y eventos.
+* **MySQL**, para bases de datos de usuarios y eventos.
 
 ## Módulos
 
