@@ -4,24 +4,13 @@ python:
   - "2.7" 
 
 install:   # Instalación de dependencias
-  - sudo apt-get install libmysqlclient-dev
-  - sudo apt-get install python-dev
+#  - sudo apt-get install libmysqlclient-dev
+#  - sudo apt-get install python-dev
   - pip install --upgrade pip
   - pip install MySQL-python
   - pip install Flask
   - pip install nose  
 
 script:       # script para tests
-  - nosetests
-
-branches:     # solo se comprueba rama master
-  - only:
-    - master
-
-notifications:   # notificaciones por email
-  recipients:
-    - jesusgg90@correo.ugr.es
-  email:
-    on_success: change
-    on_failure: always
+#  - nosetests
 
