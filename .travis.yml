@@ -12,5 +12,5 @@ install:
    - pip install nose  
 
 script:       # script para tests
-   - nosetests  test
-   - nosetests ./test/test.py
+   - nosetests -with-coverage --cover-package=chip8 test
+   - nosetests -with-coverage --cover-package=chip8 ./test/test.py
