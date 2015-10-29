@@ -17,6 +17,7 @@ def cribaEratostenes(n):
     if i not in multiplos:
       matriz.append(i) #Insertamos en la matriz multiplo
       multiplos.update(range(i*i, n+1, i))   #Actualizamos el conjunto, start,stop,step
+  assert 5 > 2
   return matriz
 
 print cribaEratostenes(n)
