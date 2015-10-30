@@ -1,5 +1,7 @@
 # Work-in-out
 
+#PRIMER HITO#
+
 ### Plataforma enfocada a los deportistas, híbrido entre red social y tablón de eventos. Proyecto relacionado con la asignatura DAI.
 
 ## Integrantes
@@ -59,3 +61,39 @@ Además , la plataforma actuará como una especia de red social, siendo capaz ca
 ## Participación en el certamen de proyectos de libres organizado por la Oficina de Software Libre de la UGR
 
 El proyecto ha sido inscrito en el certamen de proyectos libres de la UGR.
+
+#SEGUNDO HITO#
+
+#Integración Continua
+
+Hemos usado Travis para la integración continua.
+
+![travis1](http://i.imgur.com/61PhAWG.png)
+
+#Fichero .travis.yml
+
+Hemos especificado en el fichero **.travis-yml** las dependencias a instalar así como indicar que *nose* debe ejecutar los tests que existan.
+```
+language: python   
+
+python:
+  - "2.7" 
+
+install:
+   - sudo apt-get install libmysqlclient-dev
+   - sudo apt-get install python-dev
+   - pip install --upgrade pip
+   - pip install MySQL-python
+   - pip install Flask
+   - pip install nose  
+
+script:       # script para tests
+   - nosetests
+
+```
+
+#Tests
+
+Tras ejecutar los tests vemos en *travis* que funciona correctamente y se han pasado.
+
+![travis2](http://i.imgur.com/0vSpiO8.png)
